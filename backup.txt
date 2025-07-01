@@ -1,0 +1,16 @@
+pypdf
+langchain
+langchain-community
+fpdf==1.7.2
+chromadb # Vector storage
+pytest
+boto3
+langchain_ollama
+sentence-transformers
+assemblyai
+elevenlabs
+python-dotenv
+playsound==1.2.2
+gTTS #playsound
+deep-translator
+fpdf2
